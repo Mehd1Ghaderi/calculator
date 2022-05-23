@@ -2,7 +2,7 @@
   <!-- Happy Coding -->
   <div
     class="p-3"
-    style="max-width: 350px; margin: 200px auto; background: #500"
+    style="max-width: 300px; margin: 100px auto; background: #500"
   >
     <!-- Calculator Result -->
     <div
@@ -42,6 +42,8 @@ export default {
         "*",
         "/",
         "-",
+        "mahdi",
+
         7,
         8,
         9,
@@ -97,11 +99,11 @@ export default {
 
 <style scoped>
 .bg-vue-dark {
-  background: rebeccapurple;
+  background: blueviolet;
 }
 .hover-class:hover {
   cursor: pointer;
-  background: gray;
+  background: red;
 }
 .bg-vue-green {
   background: black;
