@@ -2,7 +2,7 @@
   <!-- Happy Coding -->
   <div
     class="p-3"
-    style="max-width: 320px; margin: 25px auto; background: #500"
+    style="max-width: 350px; margin: 200px auto; background: #500"
   >
     <!-- Calculator Result -->
     <div
@@ -107,3 +107,4 @@ export default {
   background: black;
 }
 </style>
+  
