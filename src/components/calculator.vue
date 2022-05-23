@@ -2,7 +2,7 @@
   <!-- Happy Coding -->
   <div
     class="p-3"
-    style="max-width: 410px; margin: 70px auto; background: #234"
+    style="max-width: 320px; margin: 25px auto; background: #500"
   >
     <!-- Calculator Result -->
     <div
@@ -97,7 +97,7 @@ export default {
 
 <style scoped>
 .bg-vue-dark {
-  background: #31475e;
+  background: rebeccapurple;
 }
 .hover-class:hover {
   cursor: pointer;
